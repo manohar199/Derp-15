@@ -6,7 +6,7 @@ echo "repo sync"
 echo "envsetup.sh"
 source build/envsetup.sh 
 echo "breakfast or lunch" 
-lunch derp_$bramble-user
+brunch bramble
 echo "Build the code" 
 #make installclean
 m -j14
