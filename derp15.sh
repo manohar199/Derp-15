@@ -9,4 +9,4 @@ echo "breakfast or lunch"
 lunch derp_$bramble-user
 echo "Build the code" 
 #make installclean
-mka derp
+m -j14
