@@ -6,7 +6,7 @@ echo "repo sync"
 echo "envsetup.sh"
 source build/envsetup.sh 
 echo "breakfast or lunch" 
-lunch aosp_bramble-OPR2-user
+lunch derp_$bramble-user
 echo "Build the code" 
 #make installclean
 mka derp
