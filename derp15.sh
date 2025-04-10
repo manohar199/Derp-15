@@ -6,7 +6,7 @@ echo "repo sync"
 echo "envsetup.sh"
 source build/envsetup.sh 
 echo "breakfast or lunch" 
-brunch bramble
+lunch aosp_bramble-userdebug
 echo "Build the code" 
 #make installclean
 m -j14
