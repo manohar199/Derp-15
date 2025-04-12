@@ -9,4 +9,4 @@ echo "breakfast or lunch"
 lunch aosp_bramble-userdebug
 echo "Build the code" 
 #make installclean
-m -j14
+mka bacon
